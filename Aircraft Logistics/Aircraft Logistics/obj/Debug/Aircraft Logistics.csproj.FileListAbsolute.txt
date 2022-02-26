@@ -1,0 +1,11 @@
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\bin\Debug\Aircraft Logistics.exe.config
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\bin\Debug\Aircraft Logistics.exe
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\bin\Debug\Aircraft Logistics.pdb
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft Logistics.csproj.AssemblyReference.cache
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft Logistics.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft_Logistics.Form1.resources
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft_Logistics.Properties.Resources.resources
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft Logistics.csproj.GenerateResource.cache
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft Logistics.csproj.CoreCompileInputs.cache
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft Logistics.exe
+C:\Users\dell\Dropbox\Aircraft Logistics\Aircraft Logistics\obj\Debug\Aircraft Logistics.pdb
